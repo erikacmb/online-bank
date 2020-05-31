@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.com.radixeng.AppTest" time="0.127" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="13"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/erika/Desktop/online-bank/target/test-classes:/Users/erika/Desktop/online-bank/target/classes:/Users/erika/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/erika/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/erika/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/erika/.m2/repository/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-server/9.1.3.v20140225/jetty-server-9.1.3.v20140225.jar:/Users/erika/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-http/9.1.3.v20140225/jetty-http-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-util/9.1.3.v20140225/jetty-util-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-io/9.1.3.v20140225/jetty-io-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-servlet/9.1.3.v20140225/jetty-servlet-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-security/9.1.3.v20140225/jetty-security-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/glassfish/jersey/core/jersey-server/2.7/jersey-server-2.7.jar:/Users/erika/.m2/repository/org/glassfish/jersey/core/jersey-common/2.7/jersey-common-2.7.jar:/Users/erika/.m2/repository/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.7/jersey-guava-2.7.jar:/Users/erika/.m2/repository/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar:/Users/erika/.m2/repository/org/glassfish/jersey/core/jersey-client/2.7/jersey-client-2.7.jar:/Users/erika/.m2/repository/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0.jar:/Users/erika/.m2/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar:/Users/erika/.m2/repository/org/glassfish/hk2/hk2-api/2.2.0/hk2-api-2.2.0.jar:/Users/erika/.m2/repository/org/glassfish/hk2/hk2-utils/2.2.0/hk2-utils-2.2.0.jar:/Users/erika/.m2/repository/org/glassfish/hk2/external/aopalliance-repackaged/2.2.0/aopalliance-repackaged-2.2.0.jar:/Users/erika/.m2/repository/org/glassfish/hk2/external/javax.inject/2.2.0/javax.inject-2.2.0.jar:/Users/erika/.m2/repository/org/glassfish/hk2/hk2-locator/2.2.0/hk2-locator-2.2.0.jar:/Users/erika/.m2/repository/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar:/Users/erika/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar:/Users/erika/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet-core/2.7/jersey-container-servlet-core-2.7.jar:/Users/erika/.m2/repository/org/glassfish/jersey/containers/jersey-container-jetty-http/2.7/jersey-container-jetty-http-2.7.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-continuation/9.1.1.v20140108/jetty-continuation-9.1.1.v20140108.jar:/Users/erika/.m2/repository/org/glassfish/jersey/media/jersey-media-moxy/2.7/jersey-media-moxy-2.7.jar:/Users/erika/.m2/repository/org/glassfish/jersey/ext/jersey-entity-filtering/2.7/jersey-entity-filtering-2.7.jar:/Users/erika/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.5.0/org.eclipse.persistence.moxy-2.5.0.jar:/Users/erika/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.5.0/org.eclipse.persistence.core-2.5.0.jar:/Users/erika/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/2.5.0/org.eclipse.persistence.asm-2.5.0.jar:/Users/erika/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.5.0/org.eclipse.persistence.antlr-2.5.0.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="13"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/13.0.2+8_2/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/erika/Desktop/online-bank/target/surefire/surefirebooter6720105586010753221.jar /Users/erika/Desktop/online-bank/target/surefire 2020-05-24T18-25-13_540-jvmRun1 surefire1290341855166986016tmp surefire_04446594951354329354tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/erika/Desktop/online-bank/target/test-classes:/Users/erika/Desktop/online-bank/target/classes:/Users/erika/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/erika/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/erika/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/erika/.m2/repository/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-server/9.1.3.v20140225/jetty-server-9.1.3.v20140225.jar:/Users/erika/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-http/9.1.3.v20140225/jetty-http-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-util/9.1.3.v20140225/jetty-util-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-io/9.1.3.v20140225/jetty-io-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-servlet/9.1.3.v20140225/jetty-servlet-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-security/9.1.3.v20140225/jetty-security-9.1.3.v20140225.jar:/Users/erika/.m2/repository/org/glassfish/jersey/core/jersey-server/2.7/jersey-server-2.7.jar:/Users/erika/.m2/repository/org/glassfish/jersey/core/jersey-common/2.7/jersey-common-2.7.jar:/Users/erika/.m2/repository/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.7/jersey-guava-2.7.jar:/Users/erika/.m2/repository/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar:/Users/erika/.m2/repository/org/glassfish/jersey/core/jersey-client/2.7/jersey-client-2.7.jar:/Users/erika/.m2/repository/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0.jar:/Users/erika/.m2/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar:/Users/erika/.m2/repository/org/glassfish/hk2/hk2-api/2.2.0/hk2-api-2.2.0.jar:/Users/erika/.m2/repository/org/glassfish/hk2/hk2-utils/2.2.0/hk2-utils-2.2.0.jar:/Users/erika/.m2/repository/org/glassfish/hk2/external/aopalliance-repackaged/2.2.0/aopalliance-repackaged-2.2.0.jar:/Users/erika/.m2/repository/org/glassfish/hk2/external/javax.inject/2.2.0/javax.inject-2.2.0.jar:/Users/erika/.m2/repository/org/glassfish/hk2/hk2-locator/2.2.0/hk2-locator-2.2.0.jar:/Users/erika/.m2/repository/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar:/Users/erika/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar:/Users/erika/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet-core/2.7/jersey-container-servlet-core-2.7.jar:/Users/erika/.m2/repository/org/glassfish/jersey/containers/jersey-container-jetty-http/2.7/jersey-container-jetty-http-2.7.jar:/Users/erika/.m2/repository/org/eclipse/jetty/jetty-continuation/9.1.1.v20140108/jetty-continuation-9.1.1.v20140108.jar:/Users/erika/.m2/repository/org/glassfish/jersey/media/jersey-media-moxy/2.7/jersey-media-moxy-2.7.jar:/Users/erika/.m2/repository/org/glassfish/jersey/ext/jersey-entity-filtering/2.7/jersey-entity-filtering-2.7.jar:/Users/erika/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.5.0/org.eclipse.persistence.moxy-2.5.0.jar:/Users/erika/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.5.0/org.eclipse.persistence.core-2.5.0.jar:/Users/erika/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/2.5.0/org.eclipse.persistence.asm-2.5.0.jar:/Users/erika/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.5.0/org.eclipse.persistence.antlr-2.5.0.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/erika"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-01-14"/>
+    <property name="java.home" value="/usr/local/Cellar/openjdk/13.0.2+8_2/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/erika/Desktop/online-bank"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/Users/erika/Desktop/online-bank/target/surefire/surefirebooter6720105586010753221.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="13.0.2+8"/>
+    <property name="user.name" value="erika"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.14.6"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/erika/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/h7/8b15rd3j2ybctvvr667t3scc0000gn/T/"/>
+    <property name="java.version" value="13.0.2"/>
+    <property name="user.dir" value="/Users/erika/Desktop/online-bank"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.library.path" value="/Users/erika/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="N/A"/>
+    <property name="java.vm.version" value="13.0.2+8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="57.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="br.com.radixeng.AppTest" time="0.002"/>
+</testsuite>
